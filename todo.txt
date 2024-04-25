@@ -1,0 +1,7 @@
+make a request to a google play page and get the comments
+print the type of object returned
+see number of comments returned
+print the first comment to see how its structured
+serialize to json object
+store in a json file
+structure whole work now into a generic class and another class for serializing to json
